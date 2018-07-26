@@ -1,0 +1,37 @@
+{
+  "id": "e9dc7eed-fdee-4bfa-a886-b67cfcea4723",
+  "name": "Ragging at JECRC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "AntiRagging",
+          "url": "http://www.antiragging.in/"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "JECRC is a ragging free college. You will the company of seniors."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515633455,
+  "fallbackIntent": false,
+  "events": []
+}

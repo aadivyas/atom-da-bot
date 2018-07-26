@@ -1,0 +1,30 @@
+[
+  {
+    "id": "38feb980-2303-4c81-9ac9-b9cf25fb5361",
+    "data": [
+      {
+        "text": "csa",
+        "alias": "section",
+        "meta": "@section",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515631292
+  },
+  {
+    "id": "7f15b3a4-4a93-4153-90ac-6f4ef4143d07",
+    "data": [
+      {
+        "text": "Computer science section A",
+        "alias": "section",
+        "meta": "@section",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1515631292
+  }
+]

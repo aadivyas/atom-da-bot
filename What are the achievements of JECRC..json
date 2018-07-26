@@ -1,0 +1,48 @@
+{
+  "id": "a3b1154f-d2e1-4db3-843e-393dba3ae8ca",
+  "name": "What are the achievements of JECRC.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "what about attendence"
+            },
+            {
+              "title": "A funny Jokes"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Do you know JECRC is organizing JECRC Hackathon 1.O on 10 january 2018.",
+            "Do you know Dr. Vijay Singh Rathore, Prof. Dept. of CSE received “The Significant Contribution Award 2016” and “Active Participation Youth Award 2016” under CSI Service Awards at Coimbatore.",
+            "Do you know Shreyansh Pandey from 1st year ECE branch grabbed a Research Fellowship [Distance] from IISC Bangalore, which was initiated in academic year 2016-17 with a topic of “YOUTH PSYCHOLOGY”.",
+            "Aditi Parikh from 3rd Year CSE won first prize in the event escalade at IIT Guwahati."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515632065,
+  "fallbackIntent": false,
+  "events": []
+}

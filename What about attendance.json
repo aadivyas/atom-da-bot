@@ -1,0 +1,28 @@
+{
+  "id": "0345d206-e223-419b-b81d-dda18312b2d9",
+  "name": "What about attendance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You have to maintain 75% attendance."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515633286,
+  "fallbackIntent": false,
+  "events": []
+}

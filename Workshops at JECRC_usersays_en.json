@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bf2f1f73-2ca0-415a-bddb-500df997a692",
+    "data": [
+      {
+        "text": "Events at JECRC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515632176
+  },
+  {
+    "id": "d7998e73-993a-415b-9650-8a9bd20526ed",
+    "data": [
+      {
+        "text": "Events and workshops at JECRC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515632176
+  },
+  {
+    "id": "8fdd3390-1409-4520-89cd-71fb78e82102",
+    "data": [
+      {
+        "text": "Workshops at JECRC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515632176
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "3785d78f-d9b0-44a0-9c79-609bbd248617",
+  "name": "What is SOCH.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "What college life is like"
+            },
+            {
+              "title": "A funny joke"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "SOCH is a social group to promote cleanliness and create awareness about social HYGIENE and SANITATION."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515632699,
+  "fallbackIntent": false,
+  "events": []
+}

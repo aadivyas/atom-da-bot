@@ -1,0 +1,40 @@
+{
+  "id": "de77a4c1-7c43-4883-a0ea-2db13223115a",
+  "name": "What is FNF",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "What is SOCH."
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is a drama club at JECRC which performs \"Nukkad Natak\" and Stage plays."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515632814,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "8ca442d3-26d8-4acd-9e87-7f86aef200bf",
+  "name": "What college life is like?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "My friend told me it is awesome. You will enjoy it. Don\"t you trust me."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515632958,
+  "fallbackIntent": false,
+  "events": []
+}

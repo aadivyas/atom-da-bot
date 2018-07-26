@@ -1,0 +1,32 @@
+{
+  "id": "2f68eecf-b29c-43b0-9340-db39912fb782",
+  "name": "social face of jecrc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "At JECRC, for students inclined towards social services we have clubs like Zarurat, SOCH, Aashayein and First Step that are doing commendable job in enriching lives of the underprivileged sections of the society",
+            "We have two dance clubs Enigma \u0026 Khaalas.",
+            "At JECRC dramatics club Face \u0026 Footlite, literary club Parijaat, the official college magazine J-Mag, photography club Fotografreaks."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515632517,
+  "fallbackIntent": false,
+  "events": []
+}

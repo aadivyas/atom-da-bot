@@ -1,0 +1,52 @@
+{
+  "id": "30a693b1-dc62-42d9-a218-02239d8e4520",
+  "name": "csa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "24c4cf34-72c1-4897-b17a-1d74ee938238",
+          "required": false,
+          "dataType": "@section",
+          "name": "section",
+          "value": "$section",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Facts about JECRC"
+            },
+            {
+              "title": "A funny joke"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "08:30 to 09:30 EDC 09:30 to 10:30 Maths 10:30 to  11:30 FOC"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515631292,
+  "fallbackIntent": false,
+  "events": []
+}

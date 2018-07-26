@@ -1,0 +1,53 @@
+{
+  "id": "c71260cd-5f8b-433b-91a1-b5dbaf6a4523",
+  "name": "FactsAboutJecrc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "more facts about JECRC"
+            },
+            {
+              "title": "A funny joke"
+            }
+          ]
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "JECRC",
+          "url": "http://www.jecrcfoundation.com/"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Jecrc was established in 2000.",
+            "There are more than 120 Faculties and 4124 students currently enrolled in JECRC."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515630691,
+  "fallbackIntent": false,
+  "events": []
+}

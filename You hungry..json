@@ -1,0 +1,28 @@
+{
+  "id": "f1813229-8f13-400e-801e-74a0624e5ce8",
+  "name": "You hungry.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yeah lets move towards the cafeteria."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515631369,
+  "fallbackIntent": false,
+  "events": []
+}

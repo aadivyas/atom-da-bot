@@ -1,0 +1,28 @@
+{
+  "id": "4a08f9b1-135a-4f32-b4db-a9c40382ed38",
+  "name": "Who should I call at JECRC.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Contact JECRC using 0141 2770232, 0141 5133338 \nE-mail: info@jecrcmail.com"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515630980,
+  "fallbackIntent": false,
+  "events": []
+}

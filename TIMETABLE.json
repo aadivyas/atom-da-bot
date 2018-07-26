@@ -1,0 +1,46 @@
+{
+  "id": "88413b3e-ce75-4f28-b1b0-cc8ca9e12d79",
+  "name": "TIMETABLE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a0c766d1-e7cb-4867-9afc-045cc8a0a762",
+          "dataType": "@class",
+          "name": "class",
+          "value": "$class",
+          "isList": false
+        },
+        {
+          "id": "9daf1711-5755-4f28-9dac-f93a19178ba2",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Which class you are from?",
+            "Which class?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515631156,
+  "fallbackIntent": false,
+  "events": []
+}

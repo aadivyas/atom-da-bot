@@ -1,0 +1,43 @@
+{
+  "id": "6a7bfa88-27a5-4f0e-9546-2ee5bc006393",
+  "name": "what should I wear to college?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "What college life is like"
+            },
+            {
+              "title": "More jokes"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is no dress at JECRC. You can wear anything with which you are comfortable but try to prefer Formals over casuals."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515631677,
+  "fallbackIntent": false,
+  "events": []
+}

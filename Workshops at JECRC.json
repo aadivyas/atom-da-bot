@@ -1,0 +1,32 @@
+{
+  "id": "569c7e5d-3f40-4987-acb1-16ba676b2646",
+  "name": "Workshops at JECRC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A blood group checkup camp was organized by students of Aashayein group in October 2016.",
+            "The first TEDx talk in any RTU affiliated college was conducted in JECRC on 25th March 2017 wherein 10 international speakers talked to our students.",
+            "A two-day national conference RTDEEE-2016, (Recent Technological Developments in Electronics \u0026 Electrical Engineering) was organized in August 2016 where the keynote speaker was Prof. Majid Jamil, Head, Dept. of EE, Jamia Milia Islamia."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515632176,
+  "fallbackIntent": false,
+  "events": []
+}
